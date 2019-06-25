@@ -5,3 +5,5 @@ MNT6753-parameters
 build
 main
 generate_parameters
+outputs
+cuda_prover_piecewise
