@@ -1,7 +1,6 @@
 #include <cassert>
 #include <cstdio>
 #include <fstream>
-#include <fstream>
 #include <libff/common/rng.hpp>
 #include <libff/common/profiling.hpp>
 #include <libff/common/utils.hpp>
